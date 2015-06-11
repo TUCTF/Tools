@@ -21,6 +21,8 @@
 
 [Radare2](https://github.com/radare/radare2) - Seems like a better GDB. There appears to be a slight learning curve but this looks promising. 
 
+[VB Decompiler](https://www.vb-decompiler.org/download.htm) - This program will take a VB program and give you a decent amount of information about it. Helpful for seeing the code inside of forms.
+
 ## Steganography
 [Stegsolve](https://www.wechall.net/de/forum/show/thread/527/Stegsolve_1.3/) - Displays various aspects of pictures.
 
