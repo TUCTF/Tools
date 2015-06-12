@@ -28,3 +28,5 @@
 
 ## Web
 [Burp Suite](http://portswigger.net/burp/download.html) - Web proxy. Very helpful for web challenges.
+
+[sqlmap](http://sqlmap.org/) - This helps automate easy SQL injection challenges. Most CTFs try to prevent the brute force approach but this should be useful for the easier challenges.
