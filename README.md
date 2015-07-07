@@ -2,6 +2,9 @@
 ## Audio
 [Audacity](http://www.fosshub.com/Audacity.html/audacity-win-2.1.0.exe) - Windows version - Allows for analysis of audio files.
 
+## Bruteforcing
+[John the Ripper (Magnum)](https://github.com/magnumripper/JohnTheRipper) - Brute force passwords
+
 ## Cryptography
 [rsatool.py](https://github.com/ius/rsatool) - Takes p and q and returns a private key
 
