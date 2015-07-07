@@ -49,6 +49,6 @@
 
 [sqlmap](http://sqlmap.org/) - This helps automate easy SQL injection challenges. Most CTFs try to prevent the brute force approach but this should be useful for the easier challenges.
 
-[POSTman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Chrome Extension - Create and send POST requests from within Chrome.
+[Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Chrome Extension - Create and send POST requests from within Chrome.
 
 [Tamper Data](https://addons.mozilla.org/En-us/firefox/addon/tamper-data/) - Firefox add-on - Intercept, tamper with, and resend POST requests from within Firefox.
