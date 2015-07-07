@@ -25,6 +25,7 @@
 
 ## Steganography
 [Stegsolve](https://www.wechall.net/de/forum/show/thread/527/Stegsolve_1.3/) - Displays various aspects of pictures.
+[Steganabara](http://www.caesum.com/handbook/steganabara-1.1.1.tar.gz) - Provides additional tools for analyzing pictures.
 
 ## Web
 [Burp Suite](http://portswigger.net/burp/download.html) - Web proxy. Very helpful for web challenges.
