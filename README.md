@@ -14,6 +14,8 @@
 
 [pcapfix](https://github.com/Rup0rt/pcapfix) - Fixes corrupt pcap files.
 
+[aircrack-ng](http://www.aircrack-ng.org/) - WEP and WPA-PSK cracking tool (uses pcap files).
+
 ## Reverse Engineering
 [Java Decompiler](http://jd.benow.ca/) - Useful when needing to decompile Java class files. 
 
