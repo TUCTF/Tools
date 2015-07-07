@@ -22,6 +22,10 @@
 
 [aircrack-ng](http://www.aircrack-ng.org/) - WEP and WPA-PSK cracking tool (uses pcap files).
 
+[HxD](http://mh-nexus.de/en/downloads.php?product=HxD) - Windows - Freeware Hex and Disk Editor.
+
+[HexEdit](http://www.hexedit.com/download.htm) - Windows - Another Hex Editor.
+
 ## Reverse Engineering
 [Java Decompiler](http://jd.benow.ca/) - Useful when needing to decompile Java class files. 
 
