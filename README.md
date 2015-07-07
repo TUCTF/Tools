@@ -26,6 +26,8 @@
 
 [HexEdit](http://www.hexedit.com/download.htm) - Windows - Another Hex Editor.
 
+[binwalk](http://binwalk.org/) - Linux/OSX - Firmware analysis tool.
+
 ## Reverse Engineering
 [Java Decompiler](http://jd.benow.ca/) - Useful when needing to decompile Java class files. 
 
@@ -39,6 +41,8 @@
 [Stegsolve](https://www.wechall.net/de/forum/show/thread/527/Stegsolve_1.3/) - Displays various aspects of pictures.
 
 [Steganabara](http://www.caesum.com/handbook/steganabara-1.1.1.tar.gz) - Provides additional tools for analyzing pictures.
+
+[binwalk](http://binwalk.org/) - Linux/OSX - See binwalk in Forensics. Also capable of retrieving embedded photos.
 
 ## Web
 [Burp Suite](http://portswigger.net/burp/download.html) - Web proxy. Very helpful for web challenges.
