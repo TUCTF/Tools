@@ -12,6 +12,8 @@
 ## Cryptography
 [rsatool.py](https://github.com/ius/rsatool) - Takes p and q and returns a private key
 
+[xortool](https://github.com/hellman/xortool) - Tries to find the key for xor encrypted data
+
 ## Exploitation
 [PEDA](https://github.com/longld/peda) - Irreplaceable addition to GDB. Adds a lot of useful features for finding and exploiting bugs in binaries.
 
