@@ -2,13 +2,15 @@
 ## Audio
 [Audacity](http://www.fosshub.com/Audacity.html/audacity-win-2.1.0.exe) - Windows version - Allows for analysis of audio files.
 
+[WaoN](http://kichiki.github.io/waon/index.html) - Windows/Linux - command line tool that takes in sound files and outputs midi files
+
+[MidiSheetMusic](http://sourceforge.net/projects/midisheetmusic/?source=typ_redirect) - Windows - Translates Midi files to 1) Sheet Music, and 2) Letter Notes
+
 ## Bruteforcing
 [John the Ripper (Magnum)](https://github.com/magnumripper/JohnTheRipper) - Brute force passwords
 
 ## Cryptography
 [rsatool.py](https://github.com/ius/rsatool) - Takes p and q and returns a private key
-
-[xortool](https://github.com/hellman/xortool) - Tries to find the key for xor encrypted data
 
 ## Exploitation
 [PEDA](https://github.com/longld/peda) - Irreplaceable addition to GDB. Adds a lot of useful features for finding and exploiting bugs in binaries.
